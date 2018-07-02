@@ -1,0 +1,9 @@
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.deps.json
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.dll
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.pdb
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.csprojAssemblyReference.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.dll
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kichen.Core\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.Core.pdb

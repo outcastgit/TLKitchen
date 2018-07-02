@@ -1,0 +1,14 @@
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.csprojAssemblyReference.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.RazorAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.RazorAssemblyInfo.cs
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.deps.json
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.runtimeconfig.json
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.runtimeconfig.dev.json
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.dll
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\bin\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.pdb
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.dll
+C:\Users\Anastasia\source\repos\TravelLine.Kitchen.WebApi\TravelLine.Kitchen.WebApi\obj\Debug\netcoreapp2.1\TravelLine.Kitchen.WebApi.pdb
